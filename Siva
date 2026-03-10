@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Sivaranjini | Digital Marketing Portfolio</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Poppins;
+}
+
+body{
+background:#0f172a;
+color:white;
+line-height:1.6;
+}
+
+header{
+text-align:center;
+padding:120px 20px;
+background:#020617;
+}
+
+header h1{
+font-size:50px;
+}
+
+header p{
+color:#cbd5f5;
+margin-top:10px;
+}
+
+.btn{
+display:inline-block;
+margin-top:25px;
+padding:12px 25px;
+background:#22c55e;
+color:white;
+text-decoration:none;
+border-radius:6px;
+}
+
+section{
+padding:80px 10%;
+}
+
+h2{
+margin-bottom:25px;
+font-size:32px;
+}
+
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:25px;
+}
+
+.card{
+background:#1e293b;
+padding:25px;
+border-radius:10px;
+transition:0.3s;
+}
+
+.card:hover{
+transform:translateY(-8px);
+}
+
+.project{
+background:#1e293b;
+padding:25px;
+border-radius:10px;
+}
+
+.gallery{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+gap:20px;
+}
+
+.gallery img{
+width:100%;
+border-radius:10px;
+}
+
+.quote{
+text-align:center;
+font-style:italic;
+color:#94a3b8;
+margin:60px 0;
+}
+
+footer{
+text-align:center;
+padding:40px;
+background:#020617;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>A N Sivaranjini</h1>
+
+<h3>Digital Marketer</h3>
+
+<p>SEO | Performance Marketing | Content Strategy | Analytics</p>
+
+<p>Driving digital growth through SEO strategy, content marketing and analytics insights.</p>
+
+<a class="btn" href="#">Download Resume</a>
+
+</header>
+
+
+<section>
+
+<h2>About Me</h2>
+
+<p>
+
+Digital marketing professional specializing in SEO, content marketing,
+performance campaigns and analytics-driven strategies.
+
+Experienced in improving organic visibility, generating qualified traffic,
+and strengthening digital presence across EdTech platforms and global
+B2B manufacturing industries.
+
+</p>
+
+</section>
+
+
+<section>
+
+<h2>Core Expertise</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>SEO</h3>
+<p>Keyword research, on-page SEO, technical optimization and backlink strategy.</p>
+</div>
+
+<div class="card">
+<h3>Performance Marketing</h3>
+<p>Google Ads and Meta Ads campaign optimization with A/B testing.</p>
+</div>
+
+<div class="card">
+<h3>Content Marketing</h3>
+<p>SEO blogs, industry articles, landing pages and LinkedIn content.</p>
+</div>
+
+<div class="card">
+<h3>Analytics</h3>
+<p>Google Analytics, Search Console insights and performance analysis.</p>
+</div>
+
+</div>
+
+</section>
+
+
+<div class="quote">
+“Search visibility is not achieved by chance — it is built through strategy, relevance, and consistency.”
+</div>
+
+
+<section>
+
+<h2>SEO Portfolio</h2>
+
+<p>SEO optimized blogs targeting manufacturing industry keywords.</p>
+
+<ul>
+
+<li>Six Sigma in Engineering Manufacturing – SEO Score: 83</li>
+<li>Custom Sheet Metal Fabrication for OEMs – SEO Score: 81</li>
+<li>Role of Custom Tooling in Oil & Gas – SEO Score: 88</li>
+<li>Low Volume Manufacturing for OEMs – SEO Score: 83</li>
+
+</ul>
+
+</section>
+
+
+<div class="quote">
+“Data transforms marketing from guesswork into informed decision-making.”
+</div>
+
+
+<section>
+
+<h2>Analytics & Performance Insights</h2>
+
+<p>
+
+Google Analytics insights used to analyze traffic sources,
+user behavior and marketing performance.
+
+</p>
+
+<ul>
+
+<li>Organic Search – 5.9K sessions</li>
+<li>Direct Traffic – 1.1K sessions</li>
+<li>Referral Traffic – 208 sessions</li>
+<li>Organic Social – 78 sessions</li>
+
+</ul>
+
+</section>
+
+
+<section>
+
+<h2>SEO & Analytics Gallery</h2>
+
+<div class="gallery">
+
+<img src="images/seo1.png">
+<img src="images/seo2.png">
+<img src="images/analytics1.png">
+<img src="images/analytics2.png">
+<img src="images/globaltraffic.png">
+
+</div>
+
+</section>
+
+
+<section>
+
+<h2>Case Studies</h2>
+
+<div class="grid">
+
+<div class="project">
+
+<h3>SEO Growth – Manufacturing Website</h3>
+
+<p>
+
+Implemented SEO content strategy targeting
+global manufacturing buyers.
+
+</p>
+
+<ul>
+
+<li>Keyword research</li>
+<li>SEO blog optimization</li>
+<li>Backlink strategy</li>
+
+</ul>
+
+<b>Results</b>
+
+<ul>
+
+<li>SEO scores 81–88</li>
+<li>Top blog reached 1.9K views</li>
+<li>International audience growth</li>
+
+</ul>
+
+</div>
+
+<div class="project">
+
+<h3>EdTech Lead Generation Campaign</h3>
+
+<p>
+
+Digital marketing campaign for career counselling platform.
+
+</p>
+
+<ul>
+
+<li>SEO blogs and landing pages</li>
+<li>Google Ads and Meta Ads campaigns</li>
+<li>Campaign optimization</li>
+
+</ul>
+
+<b>Results</b>
+
+<ul>
+
+<li>18% reduction in CPL</li>
+<li>34% increase in leads</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</section>
+
+
+<div class="quote">
+“Content becomes powerful when it informs, engages, and reaches the right audience at the right time.”
+</div>
+
+
+<section>
+
+<h2>Content & Media</h2>
+
+<h3>Blogs</h3>
+
+<ul>
+
+<li><a href="#">Blog Link</a></li>
+<li><a href="#">Blog Link</a></li>
+
+</ul>
+
+<h3>LinkedIn Posts</h3>
+
+<ul>
+
+<li><a href="#">LinkedIn Post</a></li>
+
+</ul>
+
+<h3>Videos</h3>
+
+<ul>
+
+<li><a href="#">Marketing Video</a></li>
+
+</ul>
+
+</section>
+
+
+<section>
+
+<h2>Certifications</h2>
+
+<ul>
+
+<li>Content Writer – Content Vidhya</li>
+<li>Copywriter – Content Vidhya</li>
+<li>SEO & Paid Marketing – Skill Nation</li>
+<li>AI Mastery Bootcamp – Skill Nation</li>
+
+</ul>
+
+</section>
+
+
+<footer>
+
+<h2>Contact</h2>
+
+<p>Tamil Nadu, India</p>
+
+<p>Email: your email</p>
+
+<p>LinkedIn: your LinkedIn</p>
+
+</footer>
+
+
+</body>
+
+</html>
